@@ -87,8 +87,7 @@ input:focus,
 input:active,
 td.menu a:hover,
 td.menu a:focus,
-td.menu a:active,
-select:hover {
+td.menu a:active {
 	border-color: #3072b3;
 	border-bottom-color: #2a65a0;
 	text-decoration: none;
